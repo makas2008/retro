@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
-    "prebuild": "webpack --mode production",
+    "postbuild": "webpack --mode production",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "yarn run test": "jest",
