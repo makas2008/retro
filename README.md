@@ -1,5 +1,4 @@
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
-https://al101010.github.io/
 https://al101010.github.io/12.17.Diplom-Retro-Game/
 ###### tags: `netology` `advanced js`
 
