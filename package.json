@@ -8,7 +8,7 @@
     "prebuild": "webpack --mode production",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "test": "jest",
+    "yarn run test": "jest",
     "coverage": "jest --coverage",
     "preshow:coverage": "npm run coverage",
     "show:coverage": "live-server coverage/lcov-report",
